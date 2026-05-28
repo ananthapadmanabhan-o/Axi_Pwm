@@ -2,8 +2,7 @@ module pwm(
     input logic clk,
     input logic rstn,
     input logic en,
-//    input logic [7:0] duty_cycle,
-    input logic [7:4] duty_cycle,
+    input logic [7:0] duty_cycle,
 
     output logic pwm_out
 );
@@ -38,6 +37,6 @@ begin
     end
 end
 
-assign pwm_out = en && (pwm_counter < {duty_cycle,4'd0});
+assign pwm_out = en && (pwm_counter < duty_cycle);
 
 endmodule
