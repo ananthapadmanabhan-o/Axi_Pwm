@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+// Vivado v2025.2 (64-bit)
+// Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+// Created on Friday May 29, 2026 - 03:10:13 pm, from:
+//
+//     Map file     - /home/lonewolf/Vivado/beginner_projects/Axi_Pwm_Test/Axi_Pwm_Test.gen/sources_1/bd/axi_pwm_test/axi_pwm_test.bmm
+//     Data file(s) - /home/lonewolf/Vivado/beginner_projects/Axi_Pwm_Test/Axi_Pwm_Test.gen/sources_1/bd/axi_pwm_test/ip/axi_pwm_test_microblaze_0_0/data/mb_bootloop_le.elf
+//
+// Address space 'axi_pwm_test_i_microblaze_0.axi_pwm_test_i_microblaze_0_local_memory_lmb_bram_16K_1_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000
