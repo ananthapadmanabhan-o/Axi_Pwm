@@ -1,0 +1,4 @@
+domain_path: /home/lonewolf/Vitis/Axi_Pwm_Test/axi_pwm_platform/export/axi_pwm_platform/sw/standalone_microblaze_0
+app_src_dir: /tools/Xillinx/2025.2/Vitis/data/embeddedsw/lib/sw_apps/empty_application
+template: empty_application
+lang: c
